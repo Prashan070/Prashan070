@@ -1,13 +1,16 @@
 ![Project Banner](TOPPP.png)
 
 &nbsp;  
-<!-- This line adds vertical space -->
+&nbsp;  
+&nbsp;  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
 &nbsp;  
-<!-- Another space before the next image -->
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 ![Bot Logo](Bot.png)
