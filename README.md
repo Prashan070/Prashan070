@@ -1,6 +1,7 @@
 ![Project Banner](TOPPP.png)
 
-I'm a **Senior Software Engineer** at **Coforge**, currently learning **Java** and **Spring Boot** to deepen my expertise in backend development.  
+I'm a **Senior Software Engineer** at **Coforge**. 
+currently learning **Java** and **Spring Boot** to deepen my expertise in backend development.  
 
 🌱 I’m focused on microservices, clean architecture, and system design.  
 🚀 Actively looking for **opportunities in backend development** where I can apply and grow my skills.
