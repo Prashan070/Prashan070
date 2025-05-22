@@ -11,7 +11,7 @@ I'm a **Senior Software Engineer** at **Coforge** with a strong foundation in **
 <p align="center">
 	<a href="https://github.com/Prashan070"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/prashan-srivastava-43b260169/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="prashansrivastava77@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Email"/></a>
+  <a href="mailto:prashansrivastava77@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Email"/></a>
 </p>
 
 
