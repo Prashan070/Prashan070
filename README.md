@@ -1,6 +1,9 @@
 ![Project Banner](TOPPP.png)
 
-I'm a **Senior Software Engineer** at **Coforge** with a strong foundation in **Java** and hands-on experience with **Spring Boot**. I'm currently expanding my knowledge in **microservices architecture**, **system design**.
+I'm a **Senior Software Engineer** at **Coforge** with strong hands-on skills in **Java** and **Spring Boot**. While my current role centers around **Duck Creek** development, 
+I’ve consistently built and sharpened my backend expertise through self-driven projects and continuous learning.
+
+I’m now focused on backend engineering — **designing APIs, working with microservices, and building scalable systems using modern Java technologies**.
 
 💡 Fast learner, problem solver, and passionate about backend technologies.  
 🚀 Actively looking for **backend development opportunities** where I can contribute, grow, and build impactful systems.
