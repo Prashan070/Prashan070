@@ -3,7 +3,10 @@
 
 Backend Developer
 
-building the engine behind the application. 🚀
+Building the engine behind the application. 🚀
+
+Java • Spring Boot • Microservices • System Design
+
 ---
 
 ### Let's Connect ☕  
